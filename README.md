@@ -1,3 +1,4 @@
-Here are [hobby]projects that I've worked on during my time at universities - at least these are the ones that I found to be presentable. Had I had more time to flesh them out, they would be even more intriguing!
+Here are some of my projects that I found to be presentable.
 
 ![](climb_game.gif)
+*^ From a Unity project where I wanted to explore characters that we better integrated with the physics engine*
